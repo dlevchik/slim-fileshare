@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+coverage/
+Slim/
+var/
+vendor/
+**/node_modules/
